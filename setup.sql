@@ -1,0 +1,9 @@
+-- CREATE TABLE insurance (
+--     age INTEGER,
+--     sex TEXT,
+--     bmi NUMERIC,
+--     children INTEGER,
+--     smoker TEXT,
+--     region TEXT,
+--     charges NUMERIC
+-- );
